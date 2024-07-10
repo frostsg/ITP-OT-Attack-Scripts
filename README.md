@@ -11,10 +11,12 @@
 ## Attack Scripts Created to attack OT Systems 
 These scripts are created for demonstration purpose ONLY.
 
-## How it works
-```
-python3 <script_name>.py
-```
+## Steps
+Step 1: `python3 <script_name>.py`
+Step 2: ???
+Step 3: Profit
 
-## Done by
-frostsg
+
+## Credits
+- Fellipe Oliveria for the ScadaBR Authenticated RCE Exploit Script
+
