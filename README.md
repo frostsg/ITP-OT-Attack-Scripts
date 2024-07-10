@@ -1,12 +1,3 @@
-## Attack Scripts Created to attack OT Systems 
-These scripts are created for demonstration purpose ONLY.
-
-## How it works
-```
-python3 <script_name>.py
-```
-
-## Enjoy! 
 ```
 ················································································
 :  ___ _____      _   _   _             _      ____            _       _       :
@@ -17,3 +8,13 @@ python3 <script_name>.py
 :                                                               |_|            :
 ················································································
 ```
+## Attack Scripts Created to attack OT Systems 
+These scripts are created for demonstration purpose ONLY.
+
+## How it works
+```
+python3 <script_name>.py
+```
+
+## Done by
+frostsg
