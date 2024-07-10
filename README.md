@@ -12,10 +12,9 @@
 These scripts are created for demonstration purpose ONLY.
 
 ## Steps
-Step 1: `python3 <script_name>.py`
-Step 2: ???
-Step 3: Profit
-
+- Step 1: `python3 <script_name>.py`
+- Step 2: ???
+- Step 3: Profit
 
 ## Credits
 - Fellipe Oliveria for the ScadaBR Authenticated RCE Exploit Script
